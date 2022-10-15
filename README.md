@@ -13,6 +13,8 @@ AutoMapper is an object-to-object mapper which helps you to avoid manual mapping
 6. Invoke Mapped object in API Controller
 7. Custom property Mapping using AutoMapper
 
+For more detailed steps visit - https://geeksarray.com/blog/how-to-use-automapper-in-aspnet-core-web-api
+
 ![ASP.NET Core AutoMapper Custom Mapping](https://geeksarray.com/images/blog/asp-net-core-automapper-custom-mapping.png)
 
-For more detailed steps visit - https://geeksarray.com/blog/how-to-use-automapper-in-aspnet-core-web-api
+
